@@ -1,0 +1,11 @@
+html, body {
+    font-size: 15px;
+}
+
+.sorting-button {
+    margin-left: 10px;
+}
+
+a.current {
+    border-bottom: 1px dotted;
+}
